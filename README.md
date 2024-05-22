@@ -31,7 +31,7 @@ The database used in this project is a sample database obtained from [SQL Tutori
 
 ### Hugging Face
 
-To use the Hugging Face model, you need to authenticate. You can obtain the `hf_auth` code by requesting it from the [Hugging Face website](https://huggingface.co/).
+To use the Hugging Face model, you need to authenticate. You can obtain the `HF_AUTH` code by requesting it from the [Hugging Face website](https://huggingface.co/).
 
 1. Go to the [Hugging Face website](https://huggingface.co/).
 2. Sign up or log in to your account.
@@ -39,7 +39,7 @@ To use the Hugging Face model, you need to authenticate. You can obtain the `hf_
 
 ## Usage
 
-Once you have installed the necessary libraries and configured your API keys, you can run the application as shown in the notebook. Make sure to replace the placeholder values for `HASH_KEY` and `DB_PASS` with your actual credentials.
+Once you have installed the necessary libraries and configured your API keys, you can run the application as shown in the notebook. Make sure to replace the placeholder values for `HF_AUTH` and `DB_PASS` with your actual credentials.
 
 ## Contributing
 
