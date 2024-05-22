@@ -15,7 +15,7 @@ pip install langchain
 pip install langchain-community
 pip install transformers
 pip install SQLAlchemy
- pip install pymysql   
+pip install pymysql   
 pip install dotenv # To store env variables (Optional)
 ```
 
