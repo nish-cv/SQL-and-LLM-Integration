@@ -39,7 +39,7 @@ To use the Hugging Face model, you need to authenticate. You can obtain the `hf_
 
 ## Usage
 
-Once you have installed the necessary libraries and configured your API keys, you can run the application as shown in the notebook. Make sure to replace the placeholder values for `hf_auth` and `api_key` with your actual credentials.
+Once you have installed the necessary libraries and configured your API keys, you can run the application as shown in the notebook. Make sure to replace the placeholder values for `HASH_KEY` and `DB_PASS` with your actual credentials.
 
 ## Contributing
 
